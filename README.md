@@ -1,5 +1,5 @@
 # exploid
- exploid ( sending your backdoor )
+exploid ( sending your backdoor )
 
 ## Update: Version 1.1.0
 ## Codename: Send
